@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0m[32mListsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is two[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is three?[0m[0m
+[0m[[0minfo[0m] [0m[32m- details why one plus one is not three[0m[0m
+[0m[[0minfo[0m] [0m[32m- intNotZero throws an exception if its argument is 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of negative numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of negative numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of positive numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of positive and negative numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of repeated elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of repeated elements including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of zeros is equal zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of empty list is equal zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of negative numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of negative numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of positive numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of positive and negative numbers including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of repeated elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of repeated elements including zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of zeros is equal zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of empty list throw NoSuchElementException[0m[0m
